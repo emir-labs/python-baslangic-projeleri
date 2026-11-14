@@ -2,9 +2,9 @@
 
 Selamlar! Python öğrenme sürecimde temel mantığı (döngüler, if-else yapıları, temel modüller) oturtmak için yazdığım 5 ufak projeyi bu depoda topladım. Yeni başlayanlar için güzel bir pratik arşivi oldu.
 
-## 📂 İçeride Neler Var?
+## Bu Çalışmanın İçinde Neler Var?
 
-* **1. Sayı Tahmin Oyunu (`sayi_tahmin.py`) — *🌟 Güncellendi!***  
+* **1. Sayı Tahmin Oyunu (`sayi_tahmin.py`) — **  
   Bilgisayarın tuttuğu sayıyı yönlendirmelerle bulmaya çalıştığımız klasik oyun. Son güncellemeyle oyuna zorluk seviyeleri (Kolay, Orta, Zor), can hakkı mekaniği ve hatalı girişleri (harf girilmesi vb.) çökmeden yakalayan bir kontrol sistemi ekledim.  
   *(Pratikler: `random` modülü, iç içe `while` döngüleri, `if-elif-else`, `try-except` hata yönetimi)*
 
