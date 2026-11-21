@@ -1,4 +1,4 @@
-# 🚀 Python'a Giriş: İlk Mini Projelerim
+# 🚀 Python'a Giriş: Yapay Zeka Destekli İlk Mini Projelerim
 
 Selamlar! Python öğrenme sürecimde temel mantığı (döngüler, if-else yapıları, temel modüller) oturtmak için yazdığım 5 ufak projeyi bu depoda topladım. Yeni başlayanlar için güzel bir pratik arşivi oldu.
 
